@@ -1,0 +1,36 @@
+.pcha{
+  width: 90%;
+  margin: 0 auto;
+  line-height: 35px;
+  font-size: 22px;
+  
+}
+
+.container{
+  width: 1140px;
+  margin: 0 auto;
+
+}
+
+.btnone{
+  width: 200px;
+  height: 45px;
+  margin: 5px;
+  text-transform: capitalize;
+  background-color: green;
+  border: none;
+  font-size: 20px;
+  color: white;
+  border-radius: 5px;
+}
+
+.btntwo{
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  color: white;
+  text-transform: capitalize;
+  width: 200px;
+  height: 45px;
+}
