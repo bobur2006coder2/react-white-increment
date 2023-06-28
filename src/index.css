@@ -24,6 +24,10 @@
   border-radius: 5px;
 }
 
+.btnone:active{
+  outline: none;
+}
+
 .btntwo{
   background-color: red;
   border: none;
@@ -33,4 +37,11 @@
   text-transform: capitalize;
   width: 200px;
   height: 45px;
+}
+
+@media (max-width:576px) {
+  .container{
+    width: 100%;
+  }
+
 }
